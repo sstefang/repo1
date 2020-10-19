@@ -2,7 +2,7 @@
 
 I'm a software engineer with almost an year of experience currently working in Defense Industry
 
-![Image](https://raw.githubusercontent.com/Bossuletz/markdownExample/gh-pages/76500f47-cc3e-41bf-b62a-fa220decd896.jpg)
+![Image]()
 
 
 ### Experience 
